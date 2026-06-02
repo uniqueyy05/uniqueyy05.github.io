@@ -11,7 +11,7 @@
   },
   "hero": {
     "name": "Yi Yan",
-    "major": "Systems Science & Engineering · SYSU",
+    "major": "Information Engineering · School of Systems Science & Engineering · SYSU",
     "tagline": "Passionate about machine learning and intelligent systems, seeking to pursue advanced studies in artificial intelligence.",
     "resumeBtn": "Resume",
     "contactBtn": "Contact"
@@ -107,6 +107,17 @@
       {
         "name": "Tools & Platforms",
         "items": ["Git", "Linux", "VS Code", "Jupyter", "Docker"]
+      },
+      {
+        "name": "Core Coursework (Scores)",
+        "items": [
+          "Signals & Systems (99)", "Circuit Theory Lab (99)", "Digital Circuits Lab (98)",
+          "Advanced Math I (96)", "Systems Engineering (96)", "Automatic Control (95)",
+          "Electromagnetic Fields (95)", "Matrix Analysis (94)", "Linear Algebra (94)",
+          "Reinforcement Learning (93)", "Programming Lab (93)", "Python Programming Lab (93)",
+          "Advanced Math II (92)", "Embedded Systems Lab (92)",
+          "Communication Principles (90)", "Digital Signal Processing (90)", "Data Structures (86)"
+        ]
       }
     ]
   },
@@ -115,8 +126,8 @@
     "items": [
       {
         "date": "2022-09 ~ Present",
-        "title": "Sun Yat-sen University · School of Systems Science and Engineering · B.S.",
-        "description": "Majoring in Systems Science and Engineering. Coursework includes machine learning, control systems, and signal processing. Actively participating in research projects and academic competitions."
+        "title": "Sun Yat-sen University · Information Engineering · B.S.",
+        "description": "GPA 3.8/4.0. Key coursework: Signals and Systems, Communication Principles, Automatic Control, Data Structures and Algorithms, Microcontrollers and Embedded Systems, Introduction to Reinforcement Learning."
       }
     ]
   },
