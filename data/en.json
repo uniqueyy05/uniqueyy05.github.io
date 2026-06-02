@@ -61,31 +61,31 @@
         "date": "2025-12",
         "name": "National Mathematical Modeling Contest",
         "level": "Guangdong First Prize",
-        "description": "Project: NIPT Timing Selection and Fetal Abnormality Detection. Built mathematical models to analyze optimization strategies for non-invasive prenatal testing."
+        "description": "Project: NIPT Timing Selection and Fetal Abnormality Detection. Built mathematical models for optimizing non-invasive prenatal testing strategies."
       },
       {
-        "date": "2024",
-        "name": "National College Student Mathematics Competition",
-        "level": "Award Recipient",
-        "description": "Received an award in the National College Student Mathematics Competition"
+        "date": "2025-03",
+        "name": "Future Cup · 4th National University Big Data Challenge",
+        "level": "Second Prize",
+        "description": "Participated in the 2024 Future Cup 4th National University Big Data Challenge and won the second prize."
       },
       {
-        "date": "2024",
+        "date": "2025-03",
         "name": "National Encouragement Scholarship",
         "level": "National Level",
-        "description": "Awarded the National Encouragement Scholarship for outstanding academic performance"
+        "description": "Awarded the National Encouragement Scholarship for outstanding academic performance."
       },
       {
-        "date": "2024",
+        "date": "2024-12",
+        "name": "National College Student Mathematics Competition",
+        "level": "Guangdong Second Prize",
+        "description": "Won the Guangdong Province Second Prize in the 15th National College Student Mathematics Competition."
+      },
+      {
+        "date": "2024-12",
         "name": "Outstanding Student Scholarship",
-        "level": "University Level",
-        "description": "Received the Sun Yat-sen University Outstanding Student Scholarship"
-      },
-      {
-        "date": "2024",
-        "name": "Big Data Challenge",
-        "level": "Participant",
-        "description": "Participated in the Big Data Challenge, strengthening data processing and analysis skills"
+        "level": "Third Prize",
+        "description": "Received the Sun Yat-sen University Outstanding Student Scholarship (Third Prize)."
       }
     ]
   },
