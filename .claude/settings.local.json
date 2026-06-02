@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init *)",
+      "Bash(git config *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git diff *)",
+      "Bash(git show *)",
+      "Bash(git diff-tree *)",
+      "Bash(git -C \"C:/Users/31650/Desktop/personal web\" log --oneline -10)",
+      "Bash(git -C \"C:/Users/31650/Desktop/personal web\" diff --staged)",
+      "Bash(git -C \"C:/Users/31650/Desktop/personal web\" diff)",
+      "Bash(git *)",
+      "Bash(node *)",
+      "Bash(npx vite *)",
+      "Bash(npm run *)"
+    ]
+  }
+}

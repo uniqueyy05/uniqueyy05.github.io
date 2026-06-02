@@ -1,0 +1,117 @@
+{
+  "lang": "zh",
+  "nav": {
+    "about": "关于",
+    "projects": "项目",
+    "research": "研究",
+    "awards": "获奖",
+    "skills": "技能",
+    "experience": "经历",
+    "contact": "联系"
+  },
+  "hero": {
+    "name": "张三",
+    "major": "信息工程",
+    "tagline": "热爱信号处理与嵌入式系统，期望在智能感知方向深入探索。",
+    "resumeBtn": "下载简历",
+    "contactBtn": "联系我"
+  },
+  "about": {
+    "title": "关于我",
+    "paragraphs": [
+      "我是 XX 大学信息工程专业的大三学生，主修信号与系统、数字电路、通信原理等课程。对嵌入式系统与智能感知方向有浓厚兴趣，正在积极寻找相关领域的研究生机会。",
+      "本科期间参与了多个与嵌入式系统和信号处理相关的项目，积累了一定的硬件调试和软件开发经验。目前在 XX 实验室跟随 XX 教授进行无线传感网络方向的研究。",
+      "未来希望能在智能感知、物联网或通信系统方向继续深造，将理论知识与工程实践相结合，做出有价值的成果。"
+    ]
+  },
+  "projects": {
+    "title": "项目经历",
+    "items": [
+      {
+        "title": "基于 STM32 的智能环境监测系统",
+        "description": "使用 STM32F407 采集温湿度、PM2.5 等环境数据，通过 ESP8266 上传至云端，支持手机 APP 实时查看。负责主控程序开发和传感器驱动编写。",
+        "techs": ["STM32", "C", "ESP8266", "MQTT"],
+        "image": "",
+        "link": "https://github.com/username/environment-monitor"
+      },
+      {
+        "title": "FPGA 数字信号处理实验平台",
+        "description": "基于 Xilinx FPGA 搭建的数字信号处理实验平台，实现 FIR 滤波器、FFT 变换等常用算法模块。用于课程实验与教学演示。",
+        "techs": ["Verilog", "FPGA", "MATLAB", "Signal Processing"],
+        "image": "",
+        "link": "https://github.com/username/fpga-dsp-platform"
+      }
+    ]
+  },
+  "research": {
+    "title": "研究成果",
+    "items": [
+      {
+        "title": "基于深度学习的无线传感器网络异常检测方法",
+        "venue": "IEEE Sensors Journal (在投)",
+        "abstract": "提出了一种轻量级的 CNN-LSTM 混合模型，在资源受限的传感器节点上实现高效的异常数据检测，在公开数据集上达到 96.3% 的准确率。",
+        "link": ""
+      }
+    ]
+  },
+  "awards": {
+    "title": "竞赛奖项",
+    "items": [
+      {
+        "date": "2025-08",
+        "name": "全国大学生电子设计竞赛",
+        "level": "省级一等奖",
+        "description": "设计并实现了基于 FPGA 的实时图像边缘检测系统"
+      },
+      {
+        "date": "2025-05",
+        "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+        "level": "省级二等奖",
+        "description": "嵌入式设计与开发组"
+      }
+    ]
+  },
+  "skills": {
+    "title": "专业技能",
+    "categories": [
+      {
+        "name": "编程语言",
+        "items": ["C/C++", "Python", "MATLAB", "Verilog", "JavaScript"]
+      },
+      {
+        "name": "嵌入式",
+        "items": ["STM32", "FPGA", "ARM", "RTOS", "Keil MDK"]
+      },
+      {
+        "name": "工具与平台",
+        "items": ["Git", "Linux", "Multisim", "Proteus", "VS Code"]
+      },
+      {
+        "name": "领域知识",
+        "items": ["信号处理", "通信原理", "数字电路", "传感器技术"]
+      }
+    ]
+  },
+  "experience": {
+    "title": "教育 & 经历",
+    "items": [
+      {
+        "date": "2023-09 ~ 至今",
+        "title": "XX 大学 · 信息工程 · 本科",
+        "description": "GPA 3.8/4.0，主修信号与系统、数字信号处理、通信原理、微机原理等课程"
+      },
+      {
+        "date": "2024-09 ~ 至今",
+        "title": "XX 实验室 · 研究助理",
+        "description": "在 XX 教授指导下参与无线传感器网络相关课题，负责数据采集系统开发和算法仿真"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系方式",
+    "items": [
+      { "label": "邮箱", "value": "zhangsan@example.com", "link": "mailto:zhangsan@example.com" },
+      { "label": "GitHub", "value": "github.com/username", "link": "https://github.com/username" }
+    ]
+  }
+}

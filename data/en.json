@@ -1,0 +1,117 @@
+{
+  "lang": "en",
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "research": "Research",
+    "awards": "Awards",
+    "skills": "Skills",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "San Zhang",
+    "major": "Information Engineering",
+    "tagline": "Passionate about signal processing and embedded systems, seeking to explore intelligent sensing.",
+    "resumeBtn": "Resume",
+    "contactBtn": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "paragraphs": [
+      "I am a junior majoring in Information Engineering at XX University, with coursework in signals and systems, digital circuits, and communication principles. I have a strong interest in embedded systems and intelligent sensing, and I am actively seeking graduate research opportunities in related fields.",
+      "During my undergraduate studies, I have participated in multiple projects related to embedded systems and signal processing, gaining hands-on experience in hardware debugging and software development. I am currently working on wireless sensor network research at XX Lab under the guidance of Prof. XX.",
+      "I aspire to pursue further studies in intelligent sensing, IoT, or communication systems, combining theoretical knowledge with engineering practice to produce impactful results."
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "STM32-Based Smart Environment Monitoring System",
+        "description": "An environment monitoring system using STM32F407 to collect temperature, humidity, and PM2.5 data, uploaded to the cloud via ESP8266 with real-time mobile app viewing. Responsible for MCU firmware and sensor driver development.",
+        "techs": ["STM32", "C", "ESP8266", "MQTT"],
+        "image": "",
+        "link": "https://github.com/username/environment-monitor"
+      },
+      {
+        "title": "FPGA Digital Signal Processing Experiment Platform",
+        "description": "A DSP experiment platform built on Xilinx FPGA, implementing FIR filters, FFT transforms, and other common algorithm modules for course experiments and teaching demonstrations.",
+        "techs": ["Verilog", "FPGA", "MATLAB", "Signal Processing"],
+        "image": "",
+        "link": "https://github.com/username/fpga-dsp-platform"
+      }
+    ]
+  },
+  "research": {
+    "title": "Research",
+    "items": [
+      {
+        "title": "Deep Learning-Based Anomaly Detection for Wireless Sensor Networks",
+        "venue": "IEEE Sensors Journal (Under Review)",
+        "abstract": "Proposed a lightweight CNN-LSTM hybrid model for efficient anomaly detection on resource-constrained sensor nodes, achieving 96.3% accuracy on public benchmark datasets.",
+        "link": ""
+      }
+    ]
+  },
+  "awards": {
+    "title": "Awards",
+    "items": [
+      {
+        "date": "2025-08",
+        "name": "National Undergraduate Electronic Design Contest",
+        "level": "Provincial First Prize",
+        "description": "Designed and implemented an FPGA-based real-time image edge detection system"
+      },
+      {
+        "date": "2025-05",
+        "name": "Lanqiao Cup National IT Talent Competition",
+        "level": "Provincial Second Prize",
+        "description": "Embedded Design and Development Category"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": [
+      {
+        "name": "Programming Languages",
+        "items": ["C/C++", "Python", "MATLAB", "Verilog", "JavaScript"]
+      },
+      {
+        "name": "Embedded Systems",
+        "items": ["STM32", "FPGA", "ARM", "RTOS", "Keil MDK"]
+      },
+      {
+        "name": "Tools & Platforms",
+        "items": ["Git", "Linux", "Multisim", "Proteus", "VS Code"]
+      },
+      {
+        "name": "Domain Knowledge",
+        "items": ["Signal Processing", "Communication", "Digital Circuits", "Sensor Technology"]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Education & Experience",
+    "items": [
+      {
+        "date": "2023-09 ~ Present",
+        "title": "XX University · Information Engineering · B.E.",
+        "description": "GPA 3.8/4.0, coursework in signals & systems, DSP, communication principles, microprocessor systems"
+      },
+      {
+        "date": "2024-09 ~ Present",
+        "title": "XX Lab · Research Assistant",
+        "description": "Conducting wireless sensor network research under Prof. XX, responsible for data acquisition system development and algorithm simulation"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "items": [
+      { "label": "Email", "value": "zhangsan@example.com", "link": "mailto:zhangsan@example.com" },
+      { "label": "GitHub", "value": "github.com/username", "link": "https://github.com/username" }
+    ]
+  }
+}
