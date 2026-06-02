@@ -42,6 +42,13 @@
         "techs": ["Python", "DQN", "Reinforcement Learning", "PyTorch", "Gymnasium", "Pygame"],
         "image": "",
         "link": "https://github.com/uniqueyy05"
+      },
+      {
+        "title": "Python 音频与图像信号处理工具集",
+        "description": "基于 ThinkDSP 开源库二次开发，集成音频信号处理与图像边缘检测。支持音频加载与波形/频谱可视化、高斯噪声生成与低通/高通滤波降噪、Sobel 图像边缘检测、信噪比（SNR）评估等功能，可直接用于信号处理学习与工程原型验证。",
+        "techs": ["Python", "NumPy", "Matplotlib", "OpenCV", "SciPy", "ThinkDSP"],
+        "image": "",
+        "link": ""
       }
     ]
   },

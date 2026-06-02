@@ -42,6 +42,13 @@
         "techs": ["Python", "DQN", "Reinforcement Learning", "PyTorch", "Gymnasium", "Pygame"],
         "image": "",
         "link": "https://github.com/uniqueyy05"
+      },
+      {
+        "title": "Python Audio & Image Signal Processing Toolkit",
+        "description": "A signal processing toolkit built on ThinkDSP, integrating audio signal processing and image edge detection. Features include audio loading with waveform/spectrum visualization, Gaussian noise generation and low-pass/high-pass filtering for noise reduction, Sobel edge detection, and SNR evaluation — suitable for signal processing learning and engineering prototyping.",
+        "techs": ["Python", "NumPy", "Matplotlib", "OpenCV", "SciPy", "ThinkDSP"],
+        "image": "",
+        "link": ""
       }
     ]
   },
