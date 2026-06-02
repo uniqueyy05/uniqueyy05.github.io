@@ -10,64 +10,82 @@
     "contact": "Contact"
   },
   "hero": {
-    "name": "San Zhang",
-    "major": "Information Engineering",
-    "tagline": "Passionate about signal processing and embedded systems, seeking to explore intelligent sensing.",
+    "name": "Yi Yan",
+    "major": "Systems Science & Engineering · SYSU",
+    "tagline": "Passionate about machine learning and intelligent systems, seeking to pursue advanced studies in artificial intelligence.",
     "resumeBtn": "Resume",
-    "contactBtn": "Contact Me"
+    "contactBtn": "Contact"
   },
   "about": {
     "title": "About Me",
     "paragraphs": [
-      "I am a junior majoring in Information Engineering at XX University, with coursework in signals and systems, digital circuits, and communication principles. I have a strong interest in embedded systems and intelligent sensing, and I am actively seeking graduate research opportunities in related fields.",
-      "During my undergraduate studies, I have participated in multiple projects related to embedded systems and signal processing, gaining hands-on experience in hardware debugging and software development. I am currently working on wireless sensor network research at XX Lab under the guidance of Prof. XX.",
-      "I aspire to pursue further studies in intelligent sensing, IoT, or communication systems, combining theoretical knowledge with engineering practice to produce impactful results."
+      "I am an undergraduate student at the School of Systems Science and Engineering, Sun Yat-sen University, majoring in Systems Science and Engineering. I have a strong interest in machine learning, reinforcement learning, and computer vision, and I am actively seeking graduate research opportunities in related fields.",
+      "During my undergraduate studies, I have participated in projects related to image recognition and reinforcement learning, including a university innovation training project and the development of a DQN-based 2048 game agent. These experiences have built my practical skills in Python programming, deep learning, and reinforcement learning algorithms.",
+      "I aspire to pursue further studies in artificial intelligence, machine learning, or intelligent systems, combining theoretical knowledge with engineering practice to produce impactful results."
     ]
   },
   "projects": {
     "title": "Projects",
     "items": [
       {
-        "title": "STM32-Based Smart Environment Monitoring System",
-        "description": "An environment monitoring system using STM32F407 to collect temperature, humidity, and PM2.5 data, uploaded to the cloud via ESP8266 with real-time mobile app viewing. Responsible for MCU firmware and sensor driver development.",
-        "techs": ["STM32", "C", "ESP8266", "MQTT"],
+        "title": "Image Recognition · University Innovation Training Program",
+        "description": "Participated in the university innovation training program, conducting research on image recognition. Gained in-depth understanding of fundamental computer vision theories and methods.",
+        "techs": ["Python", "Deep Learning", "Computer Vision", "PyTorch"],
         "image": "",
-        "link": "https://github.com/username/environment-monitor"
+        "link": ""
       },
       {
-        "title": "FPGA Digital Signal Processing Experiment Platform",
-        "description": "A DSP experiment platform built on Xilinx FPGA, implementing FIR filters, FFT transforms, and other common algorithm modules for course experiments and teaching demonstrations.",
-        "techs": ["Verilog", "FPGA", "MATLAB", "Signal Processing"],
+        "title": "Improved DQN-based 2048 Game Agent",
+        "description": "Trained a 2048 game AI using Deep Q-Network (DQN) reinforcement learning. Built a custom gymnasium-based game environment with a MiniCNN feature extractor, supporting expert data injection for accelerated training, with a pygame visualization interface.",
+        "techs": ["Python", "DQN", "Reinforcement Learning", "PyTorch", "Gymnasium", "Pygame"],
         "image": "",
-        "link": "https://github.com/username/fpga-dsp-platform"
+        "link": "https://github.com/uniqueyy05"
       }
     ]
   },
   "research": {
-    "title": "Research",
+    "title": "Research Interests",
     "items": [
       {
-        "title": "Deep Learning-Based Anomaly Detection for Wireless Sensor Networks",
-        "venue": "IEEE Sensors Journal (Under Review)",
-        "abstract": "Proposed a lightweight CNN-LSTM hybrid model for efficient anomaly detection on resource-constrained sensor nodes, achieving 96.3% accuracy on public benchmark datasets.",
+        "title": "Deep Reinforcement Learning for Game Agent Applications",
+        "venue": "Course Research Project",
+        "abstract": "Investigated the application of DQN-based deep reinforcement learning algorithms in the 2048 game. Designed a reward function incorporating base score, empty tile rewards, monotonicity rewards, and maximum tile rewards. Used a CNN feature extractor to process game states and employed human expert data injection strategies to accelerate model convergence.",
         "link": ""
       }
     ]
   },
   "awards": {
-    "title": "Awards",
+    "title": "Awards & Honors",
     "items": [
       {
-        "date": "2025-08",
-        "name": "National Undergraduate Electronic Design Contest",
-        "level": "Provincial First Prize",
-        "description": "Designed and implemented an FPGA-based real-time image edge detection system"
+        "date": "2024",
+        "name": "National College Student Mathematics Competition",
+        "level": "Award Recipient",
+        "description": "Received an award in the National College Student Mathematics Competition"
       },
       {
-        "date": "2025-05",
-        "name": "Lanqiao Cup National IT Talent Competition",
-        "level": "Provincial Second Prize",
-        "description": "Embedded Design and Development Category"
+        "date": "2024",
+        "name": "National Encouragement Scholarship",
+        "level": "National Level",
+        "description": "Awarded the National Encouragement Scholarship for outstanding academic performance"
+      },
+      {
+        "date": "2024",
+        "name": "Outstanding Student Scholarship",
+        "level": "University Level",
+        "description": "Received the Sun Yat-sen University Outstanding Student Scholarship"
+      },
+      {
+        "date": "2024",
+        "name": "Big Data Challenge",
+        "level": "Participant",
+        "description": "Participated in the Big Data Challenge, strengthening data processing and analysis skills"
+      },
+      {
+        "date": "2024",
+        "name": "Mathematical Modeling Contest",
+        "level": "Participant",
+        "description": "Participated in a mathematical modeling contest, enhancing modeling and teamwork abilities"
       }
     ]
   },
@@ -76,42 +94,37 @@
     "categories": [
       {
         "name": "Programming Languages",
-        "items": ["C/C++", "Python", "MATLAB", "Verilog", "JavaScript"]
+        "items": ["Python", "C/C++", "MATLAB", "LaTeX"]
       },
       {
-        "name": "Embedded Systems",
-        "items": ["STM32", "FPGA", "ARM", "RTOS", "Keil MDK"]
+        "name": "Machine Learning",
+        "items": ["PyTorch", "Scikit-learn", "NumPy", "Pandas", "OpenCV"]
+      },
+      {
+        "name": "Reinforcement Learning",
+        "items": ["DQN", "Gymnasium", "Stable-Baselines3"]
       },
       {
         "name": "Tools & Platforms",
-        "items": ["Git", "Linux", "Multisim", "Proteus", "VS Code"]
-      },
-      {
-        "name": "Domain Knowledge",
-        "items": ["Signal Processing", "Communication", "Digital Circuits", "Sensor Technology"]
+        "items": ["Git", "Linux", "VS Code", "Jupyter", "Docker"]
       }
     ]
   },
   "experience": {
-    "title": "Education & Experience",
+    "title": "Education",
     "items": [
       {
-        "date": "2023-09 ~ Present",
-        "title": "XX University · Information Engineering · B.E.",
-        "description": "GPA 3.8/4.0, coursework in signals & systems, DSP, communication principles, microprocessor systems"
-      },
-      {
-        "date": "2024-09 ~ Present",
-        "title": "XX Lab · Research Assistant",
-        "description": "Conducting wireless sensor network research under Prof. XX, responsible for data acquisition system development and algorithm simulation"
+        "date": "2022-09 ~ Present",
+        "title": "Sun Yat-sen University · School of Systems Science and Engineering · B.S.",
+        "description": "Majoring in Systems Science and Engineering. Coursework includes machine learning, control systems, and signal processing. Actively participating in research projects and academic competitions."
       }
     ]
   },
   "contact": {
     "title": "Contact",
     "items": [
-      { "label": "Email", "value": "zhangsan@example.com", "link": "mailto:zhangsan@example.com" },
-      { "label": "GitHub", "value": "github.com/username", "link": "https://github.com/username" }
+      { "label": "Email", "value": "yany223@mail2.sysu.edu.cn", "link": "mailto:yany223@mail2.sysu.edu.cn" },
+      { "label": "GitHub", "value": "github.com/uniqueyy05", "link": "https://github.com/uniqueyy05" }
     ]
   }
 }
