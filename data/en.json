@@ -49,9 +49,21 @@
     "title": "Research Interests",
     "items": [
       {
-        "title": "Deep Reinforcement Learning for Game Agent Applications",
+        "title": "Deep Learning-Based Real-Time Detection of Flow Separation Zones",
+        "venue": "University Innovation Training Program · Supervisor: Prof. Sun Lei",
+        "abstract": "Investigating deep learning-based object detection and semantic segmentation methods for identifying flow separation zones in inlet schlieren images from aerodynamic experiments. Research focuses on: enhancement and extraction of weak flow features in schlieren images, optimization of lightweight CNN models for real-time deployment, and improving model generalization under limited sample conditions. This project aims to provide automated, high-precision diagnostic tools for wind tunnel experiments.",
+        "link": ""
+      },
+      {
+        "title": "Policy Optimization via Deep Reinforcement Learning in Discrete Action Spaces",
         "venue": "Course Research Project",
-        "abstract": "Investigated the application of DQN-based deep reinforcement learning algorithms in the 2048 game. Designed a reward function incorporating base score, empty tile rewards, monotonicity rewards, and maximum tile rewards. Used a CNN feature extractor to process game states and employed human expert data injection strategies to accelerate model convergence.",
+        "abstract": "Using the 2048 game as an experimental platform to study decision optimization with DQN and its variants in discrete action spaces. Designed a multi-objective reward function incorporating base score, empty tile rewards, monotonicity rewards, and maximum tile rewards. Employed a MiniCNN feature extractor for high-dimensional game state processing and introduced human expert data injection to accelerate convergence. Explored action selection strategies combining one-step lookahead with Q-value evaluation, achieving performance surpassing pure DQN under simplified conditions.",
+        "link": ""
+      },
+      {
+        "title": "Machine Learning Applications in Biomedical Data Analysis",
+        "venue": "Mathematical Modeling Practice",
+        "abstract": "Through the National Mathematical Modeling Contest, investigated statistical modeling and machine learning methods for non-invasive prenatal testing (NIPT) data. Addressed the problem of optimal NIPT timing selection and fetal abnormality detection by constructing mathematical models to analyze the trade-off between testing time windows and accuracy, exploring data-driven approaches to clinical decision optimization.",
         "link": ""
       }
     ]
