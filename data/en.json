@@ -20,7 +20,7 @@
   "about": {
     "title": "About Me",
     "paragraphs": [
-      "I am an undergraduate student at the School of Systems Science and Engineering, Sun Yat-sen University, majoring in Systems Science and Engineering. I have a strong interest in machine learning, reinforcement learning, and computer vision, and I am actively seeking graduate research opportunities in related fields.",
+      "I am an undergraduate student majoring in Information Engineering at the School of Systems Science and Engineering, Sun Yat-sen University. I have a strong interest in machine learning, reinforcement learning, and computer vision, and I am actively seeking graduate research opportunities in related fields.",
       "During my undergraduate studies, I have participated in projects related to image recognition and reinforcement learning, including a university innovation training project and the development of a DQN-based 2048 game agent. These experiences have built my practical skills in Python programming, deep learning, and reinforcement learning algorithms.",
       "I aspire to pursue further studies in artificial intelligence, machine learning, or intelligent systems, combining theoretical knowledge with engineering practice to produce impactful results."
     ]
