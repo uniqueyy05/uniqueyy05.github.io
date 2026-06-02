@@ -28,9 +28,9 @@
     "title": "项目经历",
     "items": [
       {
-        "title": "图像识别 · 大学生创新训练项目",
-        "description": "参与大学生创新训练计划，进行图像识别相关研究。通过该项目深入学习了计算机视觉的基本理论与方法。",
-        "techs": ["Python", "Deep Learning", "Computer Vision", "PyTorch"],
+        "title": "基于深度学习的进气道纹影图像分离区实时检测",
+        "description": "大学生创新训练项目。利用深度学习对进气道纹影图像中的流动分离区进行实时检测与识别，指导教师孙蕾。",
+        "techs": ["Python", "Deep Learning", "Computer Vision", "PyTorch", "Object Detection"],
         "image": "",
         "link": ""
       },
@@ -58,6 +58,12 @@
     "title": "获奖荣誉",
     "items": [
       {
+        "date": "2025-12",
+        "name": "全国大学生数学建模竞赛",
+        "level": "广东省一等奖",
+        "description": "作品《C题：NIPT的时点选择与胎儿的异常判定》，构建数学模型分析无创产前检测的优化策略。"
+      },
+      {
         "date": "2024",
         "name": "全国大学生数学竞赛",
         "level": "获奖",
@@ -80,12 +86,6 @@
         "name": "大数据挑战赛",
         "level": "参赛",
         "description": "参加大数据挑战赛，锻炼了数据处理与分析能力"
-      },
-      {
-        "date": "2024",
-        "name": "数学建模竞赛",
-        "level": "参赛",
-        "description": "参加数学建模竞赛，提升了数学建模与团队协作能力"
       }
     ]
   },

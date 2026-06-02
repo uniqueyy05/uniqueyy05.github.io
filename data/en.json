@@ -28,9 +28,9 @@
     "title": "Projects",
     "items": [
       {
-        "title": "Image Recognition · University Innovation Training Program",
-        "description": "Participated in the university innovation training program, conducting research on image recognition. Gained in-depth understanding of fundamental computer vision theories and methods.",
-        "techs": ["Python", "Deep Learning", "Computer Vision", "PyTorch"],
+        "title": "Real-Time Detection of Separation Zones in Inlet Schlieren Images via Deep Learning",
+        "description": "University Innovation Training Program. Real-time detection and recognition of flow separation zones in inlet schlieren images using deep learning. Supervised by Prof. Sun Lei.",
+        "techs": ["Python", "Deep Learning", "Computer Vision", "PyTorch", "Object Detection"],
         "image": "",
         "link": ""
       },
@@ -58,6 +58,12 @@
     "title": "Awards & Honors",
     "items": [
       {
+        "date": "2025-12",
+        "name": "National Mathematical Modeling Contest",
+        "level": "Guangdong First Prize",
+        "description": "Project: NIPT Timing Selection and Fetal Abnormality Detection. Built mathematical models to analyze optimization strategies for non-invasive prenatal testing."
+      },
+      {
         "date": "2024",
         "name": "National College Student Mathematics Competition",
         "level": "Award Recipient",
@@ -80,12 +86,6 @@
         "name": "Big Data Challenge",
         "level": "Participant",
         "description": "Participated in the Big Data Challenge, strengthening data processing and analysis skills"
-      },
-      {
-        "date": "2024",
-        "name": "Mathematical Modeling Contest",
-        "level": "Participant",
-        "description": "Participated in a mathematical modeling contest, enhancing modeling and teamwork abilities"
       }
     ]
   },
