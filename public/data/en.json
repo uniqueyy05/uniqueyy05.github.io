@@ -1,0 +1,162 @@
+{
+  "lang": "en",
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "research": "Research",
+    "awards": "Awards",
+    "skills": "Skills",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Yi Yan",
+    "major": "Information Engineering",
+    "tagline": "Passionate about machine learning and intelligent systems, seeking to pursue advanced studies in artificial intelligence.",
+    "location": "Guangzhou, China",
+    "resumeBtn": "Resume",
+    "contactBtn": "Contact"
+  },
+  "about": {
+    "title": "About Me",
+    "paragraphs": [
+      "I am a junior majoring in Information Engineering at the School of Systems Science and Engineering, Sun Yat-sen University, with a GPA of 3.8/5.0. My coursework includes Signals and Systems, Communication Principles, Automatic Control, Data Structures and Algorithms, and Introduction to Reinforcement Learning. I have a strong interest in machine learning, computer vision, and reinforcement learning, and I am actively seeking graduate research opportunities.",
+      "During my undergraduate studies, I participated in the University Innovation Training Program project 'Real-Time Detection of Separation Zones in Inlet Schlieren Images via Deep Learning,' supervised by Prof. Sun Lei. This project involved applying deep learning techniques to detect and locate flow separation zones in aerodynamic schlieren images in real time, giving me hands-on experience in computer vision and PyTorch-based model training and optimization.",
+      "Additionally, I independently developed an improved DQN-based 2048 game agent. I built a custom game environment using Gymnasium, designed a CNN feature extractor to process game states, and incorporated human expert data injection to accelerate model convergence. The project included a Pygame-based visualization interface for AI decision-making and received a top grade.",
+      "I aspire to pursue further studies in artificial intelligence, computer vision, or intelligent systems, combining theoretical knowledge with engineering practice to produce impactful results."
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Real-Time Detection of Separation Zones in Inlet Schlieren Images via Deep Learning",
+        "description": "University Innovation Training Program. Real-time detection and recognition of flow separation zones in inlet schlieren images using deep learning. Supervised by Prof. Sun Lei.",
+        "techs": ["Python", "Deep Learning", "Computer Vision", "PyTorch", "Object Detection"],
+        "image": "",
+        "link": ""
+      },
+      {
+        "title": "Improved DQN-based 2048 Game Agent",
+        "description": "Trained a 2048 game AI using Deep Q-Network (DQN) reinforcement learning. Built a custom gymnasium-based game environment with a MiniCNN feature extractor, supporting expert data injection for accelerated training, with a pygame visualization interface.",
+        "techs": ["Python", "DQN", "Reinforcement Learning", "PyTorch", "Gymnasium", "Pygame"],
+        "image": "",
+        "link": "https://github.com/uniqueyy05/2048-rl"
+      },
+      {
+        "title": "Python Audio & Image Signal Processing Toolkit",
+        "description": "A signal processing toolkit built on ThinkDSP, integrating audio signal processing and image edge detection. Features include audio loading with waveform/spectrum visualization, Gaussian noise generation and low-pass/high-pass filtering for noise reduction, Sobel edge detection, and SNR evaluation — suitable for signal processing learning and engineering prototyping.",
+        "techs": ["Python", "NumPy", "Matplotlib", "OpenCV", "SciPy", "ThinkDSP"],
+        "image": "",
+        "link": "https://github.com/uniqueyy05/signal-toolkit"
+      }
+    ]
+  },
+  "research": {
+    "title": "Research Interests",
+    "items": [
+      {
+        "title": "Deep Learning-Based Real-Time Detection of Flow Separation Zones",
+        "venue": "University Innovation Training Program · Supervisor: Prof. Sun Lei",
+        "abstract": "Investigating deep learning-based object detection and semantic segmentation methods for identifying flow separation zones in inlet schlieren images from aerodynamic experiments. Research focuses on: enhancement and extraction of weak flow features in schlieren images, optimization of lightweight CNN models for real-time deployment, and improving model generalization under limited sample conditions. This project aims to provide automated, high-precision diagnostic tools for wind tunnel experiments.",
+        "link": ""
+      },
+      {
+        "title": "Policy Optimization via Deep Reinforcement Learning in Discrete Action Spaces",
+        "venue": "Course Research Project",
+        "abstract": "Using the 2048 game as an experimental platform to study decision optimization with DQN and its variants in discrete action spaces. Designed a multi-objective reward function incorporating base score, empty tile rewards, monotonicity rewards, and maximum tile rewards. Employed a MiniCNN feature extractor for high-dimensional game state processing and introduced human expert data injection to accelerate convergence. Explored action selection strategies combining one-step lookahead with Q-value evaluation, achieving performance surpassing pure DQN under simplified conditions.",
+        "link": ""
+      },
+      {
+        "title": "Machine Learning Applications in Biomedical Data Analysis",
+        "venue": "Mathematical Modeling Practice",
+        "abstract": "Through the National Mathematical Modeling Contest, investigated statistical modeling and machine learning methods for non-invasive prenatal testing (NIPT) data. Addressed the problem of optimal NIPT timing selection and fetal abnormality detection by constructing mathematical models to analyze the trade-off between testing time windows and accuracy, exploring data-driven approaches to clinical decision optimization.",
+        "link": ""
+      }
+    ]
+  },
+  "awards": {
+    "title": "Awards & Honors",
+    "items": [
+      {
+        "date": "2025-12",
+        "name": "National Mathematical Modeling Contest",
+        "level": "Guangdong First Prize",
+        "description": "Project: NIPT Timing Selection and Fetal Abnormality Detection. Built mathematical models for optimizing non-invasive prenatal testing strategies."
+      },
+      {
+        "date": "2025-03",
+        "name": "Future Cup · 4th National University Big Data Challenge",
+        "level": "Second Prize",
+        "description": "Participated in the 2024 Future Cup 4th National University Big Data Challenge and won the second prize."
+      },
+      {
+        "date": "2025-03",
+        "name": "National Encouragement Scholarship",
+        "level": "National Level",
+        "description": "Awarded the National Encouragement Scholarship for outstanding academic performance."
+      },
+      {
+        "date": "2024-12",
+        "name": "National College Student Mathematics Competition",
+        "level": "Guangdong Second Prize",
+        "description": "Won the Guangdong Province Second Prize in the 15th National College Student Mathematics Competition."
+      },
+      {
+        "date": "2024-12",
+        "name": "Outstanding Student Scholarship",
+        "level": "Third Prize",
+        "description": "Received the Sun Yat-sen University Outstanding Student Scholarship (Third Prize)."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": [
+      {
+        "name": "Programming Languages",
+        "items": ["Python", "C/C++", "MATLAB", "LaTeX"]
+      },
+      {
+        "name": "Machine Learning",
+        "items": ["PyTorch", "Scikit-learn", "NumPy", "Pandas", "OpenCV"]
+      },
+      {
+        "name": "Reinforcement Learning",
+        "items": ["DQN", "Gymnasium", "Stable-Baselines3"]
+      },
+      {
+        "name": "Tools & Platforms",
+        "items": ["Git", "Linux", "VS Code", "Jupyter", "Docker"]
+      },
+      {
+        "name": "Core Coursework (Scores)",
+        "items": [
+          "Signals & Systems (99)", "Circuit Theory Lab (99)", "Digital Circuits Lab (98)",
+          "Advanced Math I (96)", "Systems Engineering (96)", "Automatic Control (95)",
+          "Electromagnetic Fields (95)", "Matrix Analysis (94)", "Linear Algebra (94)",
+          "Reinforcement Learning (93)", "Programming Lab (93)", "Python Programming Lab (93)",
+          "Advanced Math II (92)", "Embedded Systems Lab (92)",
+          "Communication Principles (90)", "Digital Signal Processing (90)", "Data Structures (86)"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Education",
+    "items": [
+      {
+        "date": "2023-09 ~ Present",
+        "title": "Sun Yat-sen University · Information Engineering · B.S.",
+        "description": "GPA 3.8/5.0. Key coursework: Signals and Systems, Communication Principles, Automatic Control, Data Structures and Algorithms, Microcontrollers and Embedded Systems, Introduction to Reinforcement Learning."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "items": [
+      { "label": "Email", "value": "yany223@mail2.sysu.edu.cn", "link": "mailto:yany223@mail2.sysu.edu.cn" },
+      { "label": "GitHub", "value": "github.com/uniqueyy05", "link": "https://github.com/uniqueyy05" }
+    ]
+  }
+}

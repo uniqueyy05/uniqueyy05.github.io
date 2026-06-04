@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.DS_Store
+# Personal documents
+个人信息.docx
+成绩单.pdf
+图像识别项目/
+奖项/
+强化学习课程项目/
+图片1.png
+math_cert_page*.png
+pdf_*.txt
+transcript_output.txt
+~$*
+.claude/settings.local.json
+docs/
+signal_project/
