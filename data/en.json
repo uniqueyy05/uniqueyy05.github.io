@@ -41,14 +41,14 @@
         "description": "Trained a 2048 game AI using Deep Q-Network (DQN) reinforcement learning. Built a custom gymnasium-based game environment with a MiniCNN feature extractor, supporting expert data injection for accelerated training, with a pygame visualization interface.",
         "techs": ["Python", "DQN", "Reinforcement Learning", "PyTorch", "Gymnasium", "Pygame"],
         "image": "",
-        "link": "https://github.com/uniqueyy05"
+        "link": "https://github.com/uniqueyy05/2048-rl"
       },
       {
         "title": "Python Audio & Image Signal Processing Toolkit",
         "description": "A signal processing toolkit built on ThinkDSP, integrating audio signal processing and image edge detection. Features include audio loading with waveform/spectrum visualization, Gaussian noise generation and low-pass/high-pass filtering for noise reduction, Sobel edge detection, and SNR evaluation — suitable for signal processing learning and engineering prototyping.",
         "techs": ["Python", "NumPy", "Matplotlib", "OpenCV", "SciPy", "ThinkDSP"],
         "image": "",
-        "link": ""
+        "link": "https://github.com/uniqueyy05/signal-toolkit"
       }
     ]
   },

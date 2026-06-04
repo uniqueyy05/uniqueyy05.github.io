@@ -41,14 +41,14 @@
         "description": "使用深度强化学习（DQN）算法训练 2048 游戏 AI。基于 gymnasium 自定义游戏环境，使用 MiniCNN 特征提取器，支持专家数据注入加速训练，并提供 pygame 可视化演示界面。",
         "techs": ["Python", "DQN", "Reinforcement Learning", "PyTorch", "Gymnasium", "Pygame"],
         "image": "",
-        "link": "https://github.com/uniqueyy05"
+        "link": "https://github.com/uniqueyy05/2048-rl"
       },
       {
         "title": "Python 音频与图像信号处理工具集",
         "description": "基于 ThinkDSP 开源库二次开发，集成音频信号处理与图像边缘检测。支持音频加载与波形/频谱可视化、高斯噪声生成与低通/高通滤波降噪、Sobel 图像边缘检测、信噪比（SNR）评估等功能，可直接用于信号处理学习与工程原型验证。",
         "techs": ["Python", "NumPy", "Matplotlib", "OpenCV", "SciPy", "ThinkDSP"],
         "image": "",
-        "link": ""
+        "link": "https://github.com/uniqueyy05/signal-toolkit"
       }
     ]
   },
